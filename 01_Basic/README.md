@@ -6,5 +6,5 @@
 | Revising the Select Query II | [Solution](./Revising_the_Select_Query_II.sql) | `WHERE`, `AND`, `Filtering` |
 | Select All | [Solution](./Select_All.sql) | `SELECT *` `Anti-Pattern` |
 | Select By ID | [Solution](./Select_By_ID.sql) | `WHERE`, `PRIMARY KEY`, `CLUSTERED INDEX` |
-| Japanese Cities' Attributes | [Solution](./Japanese_Cities_Attributes) | `WHERE` |
-| Japanese Cities' Names | [Solution](./Japanese_Cities_Names) | `WHERE` |
+| Japanese Cities' Attributes | [Solution](./Japanese_Cities_Attributes.sql) | `WHERE` |
+| Japanese Cities' Names | [Solution](./Japanese_Cities_Names.sql) | `WHERE` |
