@@ -1,0 +1,7 @@
+# Intermediate SQL Challenges
+
+This section focuses on more complex queries involving Aggregations, Joins, and handling specific sorting criteria (tie-breakers).
+
+| Task Name | Solution Link | Key Concepts |
+| :--- | :--- | :--- |
+| Weather Observation Station 5 | [Solution](./Weather_Observation_Station_5.sql) | `TOP`, `LEN`, `UNION ALL`, Sorting with tiebreakers |
