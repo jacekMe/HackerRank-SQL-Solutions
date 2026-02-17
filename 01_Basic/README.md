@@ -9,3 +9,4 @@
 | Japanese Cities' Attributes | [Solution](./Japanese_Cities_Attributes.sql) | **Cardinality**, Selectivity, Optimizer Statistics |
 | Japanese Cities' Names | [Solution](./Japanese_Cities_Names.sql) | **Key Lookup** costs, Heap vs Index |
 | Weather Observation Station 1 | [Solution](./Weather_Observation_Station_1.sql) | Column Projection, Data Retrieval |
+| Weather Observation Station 3 | [Solution](./Weather_Observation_Station_3.sql) | Modulo Operator (`%`), **Bitwise Optimization**, `DISTINCT` |
