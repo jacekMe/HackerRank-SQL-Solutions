@@ -11,4 +11,5 @@
 | Weather Observation Station 1 | [Solution](./Weather_Observation_Station_1.sql) | Column Projection, Data Retrieval |
 | Weather Observation Station 3 | [Solution](./Weather_Observation_Station_3.sql) | Modulo Operator (`%`), **Bitwise Optimization**, `DISTINCT` |
 | Weather Observation Station 4 | [Solution](./Weather_Observation_Station_4.sql) | `COUNT` vs `COUNT(DISTINCT)`, **NULL Handling** in Aggregations |
-| Weather Observation Station 6 | [Solution](./Weather_Observation_Station_6.sql) | **Pattern Matching** `[]`, Maintainability, SARGability  |
+| Weather Observation Station 6 | [Solution](./Weather_Observation_Station_6.sql) | **Pattern Matching** `[]`, Maintainability, SARGability |
+| Weather Observation Station 7 | [Solution](./Weather_Observation_Station_7.sql) | Trailing Wildcards, Clean Code |
