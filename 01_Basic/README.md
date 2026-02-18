@@ -13,3 +13,4 @@
 | Weather Observation Station 4 | [Solution](./Weather_Observation_Station_4.sql) | `COUNT` vs `COUNT(DISTINCT)`, **NULL Handling** in Aggregations |
 | Weather Observation Station 6 | [Solution](./Weather_Observation_Station_6.sql) | **Pattern Matching** `[]`, Maintainability, SARGability |
 | Weather Observation Station 7 | [Solution](./Weather_Observation_Station_7.sql) | Trailing Wildcards, Clean Code |
+| Weather Observation Station 8 | [Solution](./Weather_Observation_Station_8.sql) | **Complex Pattern Combination**, Reducing Technical Debt |
