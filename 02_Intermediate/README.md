@@ -7,3 +7,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Weather Observation Station 5 | [Solution](./Weather_Observation_Station_5.sql) | `TOP`, `LEN`, `UNION ALL`, Sorting with tiebreakers |
 | Binary Tree Nodes | [Solution](./Binary_Tree_Nodes.sql) | `CASE`, `IN` vs `NOT IN` trap, Handling **NULLs** in Subqueries |
 | New Companies | [Solution](./New_Companies.sql) | `COUNT(DISTINCT)`, **Redundant Joins**, **Natural Sort** (Alphanumeric) |
+| Weather Observation Station 20 | [Solution](./Weather_Observation_Station_20.sql) | **Window Functions**, `PERCENTILE_CONT`, Median Calculation, `TOP 1` vs `DISTINCT` |
