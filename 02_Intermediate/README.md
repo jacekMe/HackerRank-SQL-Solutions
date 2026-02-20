@@ -8,3 +8,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Binary Tree Nodes | [Solution](./Binary_Tree_Nodes.sql) | `CASE`, `IN` vs `NOT IN` trap, Handling **NULLs** in Subqueries |
 | New Companies | [Solution](./New_Companies.sql) | `COUNT(DISTINCT)`, **Redundant Joins**, **Natural Sort** (Alphanumeric) |
 | Weather Observation Station 20 | [Solution](./Weather_Observation_Station_20.sql) | **Window Functions**, `PERCENTILE_CONT`, Median Calculation, `TOP 1` vs `DISTINCT` |
+| SQL Project Planning | [Solution](./SQL_Project_Planning.sql) | **Gaps and Island**, Anti-Join, Date Math, Window Functions |
