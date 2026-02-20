@@ -18,3 +18,4 @@
 | Weather Observation Station 10 | [Solution](./Weather_Observation_Station_10.sql) | Trailing Negation |
 | Weather Observation Station 11 | [Solution](./Weather_Observation_Station_11.sql) | Boolean Logic Optimization, **De Morgan's Laws** |
 | Weather Observation Station 12 | [Solution](./Weather_Observation_Station_12.sql) | Negation `AND`, The Caret `[^...]` operator |
+| Higher Than 75 Marks | [Solution](./Higher_Than_75_Marks.sql) | `ORDER BY` Functions, **Sort Penalty**, Computed Columns |
