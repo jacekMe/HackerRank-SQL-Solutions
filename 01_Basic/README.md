@@ -21,3 +21,4 @@
 | Higher Than 75 Marks | [Solution](./Higher_Than_75_Marks.sql) | `ORDER BY` Functions, **Sort Penalty**, Computed Columns |
 | Employee Names | [Solution](./Employee_Names.sql) | Implicit Sorting, **Collation Settings** (CI/CS) |
 | Revising Aggregations - The Count Function | [Solution](./Revising_Aggregations_The_Count_Function.sql) | `COUNT(*)` vs `COUNT(Col)` |
+| Revising Aggregations - The Sum Function | [Solution](./Revising_Aggregations_The_Sum_Function.sql) | `SUM()`, **Arithmetic Overflow** prevention |
