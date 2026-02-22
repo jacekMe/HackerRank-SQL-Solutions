@@ -34,3 +34,4 @@
 | Weather Observation Station 15 | [Solution](./Weather_Observation_Station_15.sql) | **Subquery replacement** using `TOP 1` and `ORDER BY` |
 | Weather Observation Station 16 | [Solution](./Weather_Observation_Station_16.sql) | `CAST()` & `MIN()` |
 | Weather Observation Station 17 | [Solution](./Weather_Observation_Station_17.sql) | `TOP 1` Ascending scan optimization |
+| Weather Observation Station 18 | [Solution](./Weather_Observation_Station_18.sql) | **Manhattan Distance** |
