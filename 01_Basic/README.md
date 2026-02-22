@@ -23,3 +23,4 @@
 | Revising Aggregations - The Count Function | [Solution](./Revising_Aggregations_The_Count_Function.sql) | `COUNT(*)` vs `COUNT(Col)` |
 | Revising Aggregations - The Sum Function | [Solution](./Revising_Aggregations_The_Sum_Function.sql) | `SUM()`, **Arithmetic Overflow** prevention |
 | Revising Aggregations - Averages | [Solution](./Revising_Aggregations_Averages.sql) | `AVG()`, **Integer Division Trap**, Implicti Conversion `* 1.0` |
+| Average Population | [Solution](./Average_Population.sql) | `FLOOR()`, Implicit vs Explicit behavior |
