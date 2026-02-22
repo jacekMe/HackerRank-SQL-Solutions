@@ -32,3 +32,4 @@
 | Weather Observation Station 13 | [Solution](./Weather_Observation_Station_13.sql) | `BETWEEN` inclusivity trap vs `< >` |
 | Weather Observation Station 14 | [Solution](./Weather_Observation_Station_14.sql) | `CAST()` & `MAX()` |
 | Weather Observation Station 15 | [Solution](./Weather_Observation_Station_15.sql) | **Subquery replacement** using `TOP 1` and `ORDER BY` |
+| Weather Observation Station 16 | [Solution](./Weather_Observation_Station_16.sql) | `CAST()` & `MIN()` |
