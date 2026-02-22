@@ -35,3 +35,4 @@
 | Weather Observation Station 16 | [Solution](./Weather_Observation_Station_16.sql) | `CAST()` & `MIN()` |
 | Weather Observation Station 17 | [Solution](./Weather_Observation_Station_17.sql) | `TOP 1` Ascending scan optimization |
 | Weather Observation Station 18 | [Solution](./Weather_Observation_Station_18.sql) | **Manhattan Distance** |
+| Weather Observation Station 19 | [Solution](./Weather_Observation_Station_19.sql) | **Euclidean Distance**, `SQRT`, `POWER` |
