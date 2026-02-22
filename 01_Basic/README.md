@@ -29,3 +29,4 @@
 | The Blunder | [Solution](./The_Blunder.sql) | `CEILING()`, `REPLACE()`, Distributed Math Aggregation |
 | Top Earners | [Solution](./Top_Earners.sql) | **Grouping by Expressions**, `TOP ` optimization |
 | Weather Observation Station 2 | [Solution](./Weather_Observation_Station_2.sql) | `DECIMAL(p, s)` Precision & Scale |
+| Weather Observation Station 13 | [Solution](./Weather_Observation_Station_13.sql) | `BETWEEN` inclusivity trap vs `< >` |
