@@ -23,3 +23,16 @@
 | Revising Aggregations - The Count Function | [Solution](./Revising_Aggregations_The_Count_Function.sql) | `COUNT(*)` vs `COUNT(Col)` |
 | Revising Aggregations - The Sum Function | [Solution](./Revising_Aggregations_The_Sum_Function.sql) | `SUM()`, **Arithmetic Overflow** prevention |
 | Revising Aggregations - Averages | [Solution](./Revising_Aggregations_Averages.sql) | `AVG()`, **Integer Division Trap**, Implicti Conversion `* 1.0` |
+| Average Population | [Solution](./Average_Population.sql) | `FLOOR()`, Implicit vs Explicit behavior |
+| Japan Population | [Solution](./Japan_Population.sql) | `WHERE` before `SELECT` |
+| Population Denisty Difference | [Solution](./Population_Denisty_Difference.sql) | `MAX() - MIN()`, **Index Min/Max Optimization** (B-Tree) |
+| The Blunder | [Solution](./The_Blunder.sql) | `CEILING()`, `REPLACE()`, Distributed Math Aggregation |
+| Top Earners | [Solution](./Top_Earners.sql) | **Grouping by Expressions**, `TOP ` optimization |
+| Weather Observation Station 2 | [Solution](./Weather_Observation_Station_2.sql) | `DECIMAL(p, s)` Precision & Scale |
+| Weather Observation Station 13 | [Solution](./Weather_Observation_Station_13.sql) | `BETWEEN` inclusivity trap vs `< >` |
+| Weather Observation Station 14 | [Solution](./Weather_Observation_Station_14.sql) | `CAST()` & `MAX()` |
+| Weather Observation Station 15 | [Solution](./Weather_Observation_Station_15.sql) | **Subquery replacement** using `TOP 1` and `ORDER BY` |
+| Weather Observation Station 16 | [Solution](./Weather_Observation_Station_16.sql) | `CAST()` & `MIN()` |
+| Weather Observation Station 17 | [Solution](./Weather_Observation_Station_17.sql) | `TOP 1` Ascending scan optimization |
+| Weather Observation Station 18 | [Solution](./Weather_Observation_Station_18.sql) | **Manhattan Distance** |
+| Weather Observation Station 19 | [Solution](./Weather_Observation_Station_19.sql) | **Euclidean Distance**, `SQRT`, `POWER` |
