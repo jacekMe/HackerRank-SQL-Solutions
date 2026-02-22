@@ -26,3 +26,4 @@
 | Average Population | [Solution](./Average_Population.sql) | `FLOOR()`, Implicit vs Explicit behavior |
 | Japan Population | [Solution](./Japan_Population.sql) | `WHERE` before `SELECT` |
 | Population Denisty Difference | [Solution](./Population_Denisty_Difference.sql) | `MAX() - MIN()`, **Index Min/Max Optimization** (B-Tree) |
+| The Blunder | [Solution](./The_Blunder.sql) | `CEILING()`, `REPLACE()`, Distributed Math Aggregation |
