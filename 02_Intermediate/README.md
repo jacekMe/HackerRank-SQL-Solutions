@@ -11,3 +11,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | SQL Project Planning | [Solution](./SQL_Project_Planning.sql) | **Gaps and Island**, Anti-Join, Date Math, Window Functions |
 | The Report | [Solution](./The_Report.sql) | **Non-Equi Joins** (`BETWEEN`), `CASE` expressions |
 | Top Competitors | [Solution](./Top_Competitors.sql) | Multi-Table Joins, Schema Navigation |
+| Ollivander's Inventory | [Solution](./Ollivanders_Inventory.sql) | **Correlated Subqueries**, Contextual Minimus |
