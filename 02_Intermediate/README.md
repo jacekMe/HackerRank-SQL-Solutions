@@ -13,3 +13,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Top Competitors | [Solution](./Top_Competitors.sql) | Multi-Table Joins, Schema Navigation |
 | Ollivander's Inventory | [Solution](./Ollivanders_Inventory.sql) | **Correlated Subqueries**, Contextual Minimus |
 | Challenges | [Solution](./Challenges.sql) | **Advanced CTEs**, Multi-step filtering |
+| Contest Leaderboard | [Solution](./Contest_Leaderboard.sql) | Pre-Aggregation, `HAVING` clause |
