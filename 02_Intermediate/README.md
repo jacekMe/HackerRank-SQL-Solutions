@@ -10,3 +10,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Weather Observation Station 20 | [Solution](./Weather_Observation_Station_20.sql) | **Window Functions**, `PERCENTILE_CONT`, Median Calculation, `TOP 1` vs `DISTINCT` |
 | SQL Project Planning | [Solution](./SQL_Project_Planning.sql) | **Gaps and Island**, Anti-Join, Date Math, Window Functions |
 | The Report | [Solution](./The_Report.sql) | **Non-Equi Joins** (`BETWEEN`), `CASE` expressions |
+| Top Competitors | [Solution](./Top_Competitors.sql) | Multi-Table Joins, Schema Navigation |
