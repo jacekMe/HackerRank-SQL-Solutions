@@ -36,3 +36,19 @@
 | Weather Observation Station 17 | [Solution](./Weather_Observation_Station_17.sql) | `TOP 1` Ascending scan optimization |
 | Weather Observation Station 18 | [Solution](./Weather_Observation_Station_18.sql) | **Manhattan Distance** |
 | Weather Observation Station 19 | [Solution](./Weather_Observation_Station_19.sql) | **Euclidean Distance**, `SQRT`, `POWER` |
+| The PADS | [Solution](./The_PADS.sql) | `CONCAT()`, Mixed Granularity, Separation of Concerns |
+| Population Census | [Solution](./Population_Census.sql) | `INNER JOIN` as a filter, Table Aliasing |
+| African Cities | [Solution](./African_Cities.sql) | Relational Joins, PK/FK indexing concepts |
+
+---
+
+## 🏆 Section Summary: What I've Mastered in "Basic"
+
+Completing the Basic section wasn't just about passing tests; it was about laying a rock-solid foundation for enterprise-level database querying. Key concepts I now apply daily include:
+
+* **Performance & SARGability:** Writing `WHERE` clauses that effectively utilize B-Tree indexes (avoiding functions on the left side of operators, understanding the cost of `NOT LIKE` vs wildcard patterns).
+* **Execution Plan Awareness:** Understanding the logical query processing order (e.g., why aliases from `SELECT` cannot be used in `HAVING`).
+* **Advanced T-SQL Syntax:** Using bracket `[]` pattern matching to reduce `OR` clauses, applying De Morgan's Laws to simplify boolean logic, and leveraging explicit mathematical conversions (`* 1.0`, `FLOOR()`, `CEILING()`) to prevent implicit integer division errors.
+* **Join Mechanics:** Recognizing Cartesian explosions, choosing between `LEFT JOIN` and `INNER JOIN` based on strict business logic, and understanding the role of Primary/Foreign keys.
+
+**Next Step:** Move on to `02_Intermediate` to tackle Window Functions, CTEs, and Gaps & Islands problems!
