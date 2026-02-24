@@ -37,3 +37,4 @@
 | Weather Observation Station 18 | [Solution](./Weather_Observation_Station_18.sql) | **Manhattan Distance** |
 | Weather Observation Station 19 | [Solution](./Weather_Observation_Station_19.sql) | **Euclidean Distance**, `SQRT`, `POWER` |
 | The PADS | [Solution](./The_PADS.sql) | `CONCAT()`, Mixed Granularity, Separation of Concerns |
+| Population Census | [Solution](./Population_Census.sql) | `INNER JOIN` as a filter, Table Aliasing |
