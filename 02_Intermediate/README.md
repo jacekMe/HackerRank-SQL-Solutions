@@ -15,3 +15,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Challenges | [Solution](./Challenges.sql) | **Advanced CTEs**, Multi-step filtering |
 | Contest Leaderboard | [Solution](./Contest_Leaderboard.sql) | Pre-Aggregation, `HAVING` clause |
 | Occupations | [Solution](./Occupations.sql) | **Conditional Aggregation**, Cross-DB Pivoting, `ROW_NUMBER()` |
+| Placements | [Solution](./Placements.sql) | **Multiple Instance Joins**, Relationship mapping (Self-Join logic) |
