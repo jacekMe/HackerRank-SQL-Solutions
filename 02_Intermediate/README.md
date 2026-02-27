@@ -16,3 +16,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Contest Leaderboard | [Solution](./Contest_Leaderboard.sql) | Pre-Aggregation, `HAVING` clause |
 | Occupations | [Solution](./Occupations.sql) | **Conditional Aggregation**, Cross-DB Pivoting, `ROW_NUMBER()` |
 | Placements | [Solution](./Placements.sql) | **Multiple Instance Joins**, Relationship mapping (Self-Join logic) |
+| Symmetric Pairs | [Solution](./Symmetric_Pairs.sql) | Self-Joins, **Bidirectional Relationships**, Edge Cases in Logic |
