@@ -17,3 +17,4 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Occupations | [Solution](./Occupations.sql) | **Conditional Aggregation**, Cross-DB Pivoting, `ROW_NUMBER()` |
 | Placements | [Solution](./Placements.sql) | **Multiple Instance Joins**, Relationship mapping (Self-Join logic) |
 | Symmetric Pairs | [Solution](./Symmetric_Pairs.sql) | Self-Joins, **Bidirectional Relationships**, Edge Cases in Logic |
+| Interviews | [Solution](./Interviews.sql) | **Cartesian Explosion prevention**, CTE Pre-Aggregation, `COALESCE` |
