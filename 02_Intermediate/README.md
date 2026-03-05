@@ -18,3 +18,17 @@ This section focuses on more complex queries involving Aggregations, Joins, and 
 | Placements | [Solution](./Placements.sql) | **Multiple Instance Joins**, Relationship mapping (Self-Join logic) |
 | Symmetric Pairs | [Solution](./Symmetric_Pairs.sql) | Self-Joins, **Bidirectional Relationships**, Edge Cases in Logic |
 | Interviews | [Solution](./Interviews.sql) | **Cartesian Explosion prevention**, CTE Pre-Aggregation, `COALESCE` |
+
+---
+
+## 🏆 Section Summary: What I've Mastered in "Intermediate"
+
+The Intermediate section transitioned my focus from simple data retrieval to complex data shaping, analytics, and architectural querying. Key milestones achieved:
+
+* **Advanced Joins & Hierarchies:** Mastered Non-Equi Joins (`BETWEEN` in joins), Self-Joins fro graph-like relationships, and identified/prevented the dreaded "Cartesian Explosion" (Fan-out trap) using pre-aggregation techniques.
+* **Window Functions:** Successfully implemented `ROW_NUMBER()` for indexing groups and `PERCENTILE_CONT()` for continuous median calculations, understanding how they differ from standard `GROUP BY` aggregates.
+* **Data Reshaping (Pivoting):** Learned the ANSI-standard "Conditional Aggregation" technique (`MAX(CASE...)`) to pivot rows into columns dynamically without relying on proprietary database operators.
+* **Common Table Expressions (CTEs):** Shifted from nested, hard-to-read subqueries to modular, top-to-bottom CTEs, significantly improving code readability and maintainability.
+* **Complex Logic & Patterns:** Handled bidirectional relationships and solved the famous "Gaps and Islands" problem using both Anti-Joins and Window Function offsets.
+
+**Next Step:** Tackling the ultimate `03_Advanced` section to master Recursive CTEs and complex optimization puzzles!
